@@ -1,0 +1,15 @@
+# Compiled binary
+aes_encryptor
+
+# Test files
+test.txt
+test.aes
+test_decrypted.txt
+mysecret.txt
+mysecret.aes
+mysecret_decrypted.txt
+fail_test.txt
+wrong_test.txt
+aes_test.txt
+aes_test.aes
+aes_test.dec
